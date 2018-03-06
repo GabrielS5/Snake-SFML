@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1476118337 source:c:\users\to\desktop\programare\snake\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1476121937 source:c:\users\to\desktop\programare\jocuri, vrajali\snake\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
